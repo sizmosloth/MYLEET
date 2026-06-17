@@ -1,4 +1,6 @@
+// LC NO: 1
 // MY SOLUTION OF TWO SUM PROBLEM
+// TOPIC : ARRAYS
 
 class Solution {
 public:
